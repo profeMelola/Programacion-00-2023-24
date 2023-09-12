@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/91023374/191248917-9de9a341-2b66-4660-bf6a-74c420edbca0.png)
 
-# Aula Virtual del módulo de Programación (DAW 1A)
+# Aula Virtual del módulo de Programación (1º DAW B)
 
 ![image](https://user-images.githubusercontent.com/91023374/137005780-b6054a28-b223-4614-a395-e57472378d84.png)
 
