@@ -13,7 +13,7 @@ En el aula virtual encontrarás toda la teoría asociada al módulo.
 https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php?id=526
 
 
-# Resultados de Aprendizaje a alcanzr con la realización del módulo
+# Resultados de Aprendizaje a alcanzar con la realización del módulo
 
 1. RA1: Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado.
 2. RA2: Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos.
