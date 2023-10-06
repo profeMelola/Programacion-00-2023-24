@@ -30,7 +30,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 [UT01 - UT02: Introducción a la programación. Identificación de los elementos de un programa](https://github.com/profeMelola/Programacion-01-2023-24)
 
-[UT03: Uso de estructuras de control. Conversiones de tipos](https://github.com/profeMelola/Programacion-03-2023-24)
+[UT03: Uso de estructuras de control](https://github.com/profeMelola/Programacion-03-2023-24)
 
 ## Licencia
 
