@@ -32,7 +32,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 [UT03: Uso de estructuras de control](https://github.com/profeMelola/Programacion-03-2023-24)
 
-[UT04 String y Array. Estructuras de almacenamiento](https://github.com/profeMelola/Programacion-04-2023-24)
+[UT04: String y Array. Estructuras de almacenamiento](https://github.com/profeMelola/Programacion-04-2023-24)
 
 ## Licencia
 
