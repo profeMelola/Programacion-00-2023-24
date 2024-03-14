@@ -34,7 +34,9 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 [UT04: String y Array. Estructuras de almacenamiento](https://github.com/profeMelola/Programacion-04-2023-24)
 
-[UT05: Introducción a la POO](https://github.com/profeMelola/Programacion-05-2023-24)
+[UT05: Programación Orientada a Objetos + Excepciones](https://github.com/profeMelola/Programacion-05-2023-24)
+
+[UT05: Colecciones de datos](https://github.com/profeMelola/Programacion-05-2023-24)
 
 ## Licencia
 
