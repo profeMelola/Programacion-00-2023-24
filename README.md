@@ -36,7 +36,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 [UT05: Programación Orientada a Objetos + Excepciones](https://github.com/profeMelola/Programacion-05-2023-24)
 
-[UT05: Colecciones de datos](https://github.com/profeMelola/Programacion-05-2023-24)
+[UT05: Colecciones de datos](https://github.com/profeMelola/Programacion-06-2023-24)
 
 ## Licencia
 
