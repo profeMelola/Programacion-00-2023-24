@@ -38,7 +38,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 [UT09: Colecciones de datos](https://github.com/profeMelola/Programacion-06-2023-24)
 
-[UT10: Lectura y escritura de información](https://github.com/profeMelola/Programacion-07-2023-24)
+[UT10-11: Lectura y escritura de información](https://github.com/profeMelola/Programacion-07-2023-24)
 
 ## Licencia
 
